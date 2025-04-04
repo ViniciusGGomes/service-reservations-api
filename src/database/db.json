@@ -1,0 +1,19 @@
+{
+  "reservations": [
+    {
+      "user_id": "b2d848f2-446e-4a59-a788-dce4169a968b",
+      "service": "atendimento medico",
+      "date": "2025-05-11",
+      "time": "18:30",
+      "customer_name": "Pedro",
+      "status": "concluído"
+    },
+    {
+      "user_id": "26485879-f2f3-4130-bcd3-267c2d6596bf",
+      "service": "atendimento medico",
+      "date": "2025-07-10",
+      "time": "14:30",
+      "customer_name": "Vinius"
+    }
+  ]
+}

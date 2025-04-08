@@ -7,7 +7,7 @@
   },
   "author": "Vinícius Gomes de Mello",
   "license": "ISC",
-  "description": "Api de reserva medica",
+  "description": "Api de reserva",
   "devDependencies": {
     "@types/express": "^5.0.1",
     "@types/node": "^20.14.12",
